@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Introduced Date (yyyy-MM-dd)</name>
+   <tag></tag>
+   <elementGuidId>011815a5-5c39-4bb9-8f8e-f923544f363b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/form/fieldset/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2bc3aa6a-2387-4700-8074-b7256df0d2da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clearfix </value>
+      <webElementGuid>e96a0dad-0b8a-4dac-8929-46b58520b389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Introduced Date ('yyyy-MM-dd')</value>
+      <webElementGuid>7dfc625a-31ca-4740-843e-fb7fe15d38bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/form[1]/fieldset[1]/div[@class=&quot;clearfix&quot;]</value>
+      <webElementGuid>3c0dd73a-6dde-4572-9837-cbb08f80d022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1cdd48a7-75df-4c55-b026-048c8d08096c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clearfix </value>
+      <webElementGuid>cde11dcc-3b27-4cca-9b68-3bdf249cbe77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Introduced Date ('yyyy-MM-dd')</value>
+      <webElementGuid>fce47b74-bf01-4043-a957-b9757b571950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/form[1]/fieldset[1]/div[@class=&quot;clearfix&quot;]</value>
+      <webElementGuid>6ee8ff66-a533-4076-ac16-64459b8f2f35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/form/fieldset/div[2]</value>
+      <webElementGuid>1834a09b-75a6-46b3-a22f-ba8be8861be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/following::div[1]</value>
+      <webElementGuid>5c2a4415-744d-4724-9160-46acfbc1badd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computer name'])[1]/following::div[2]</value>
+      <webElementGuid>f1189ded-cb88-4127-9c4f-939573a63ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>755ed7e4-c589-4fe1-b97c-edcd29d6fb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Introduced Date (&quot; , &quot;'&quot; , &quot;yyyy-MM-dd&quot; , &quot;'&quot; , &quot;)&quot;) or . = concat(&quot;Introduced Date (&quot; , &quot;'&quot; , &quot;yyyy-MM-dd&quot; , &quot;'&quot; , &quot;)&quot;))]</value>
+      <webElementGuid>6c47dfc0-9225-4634-b04e-42b9b2e8e1ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
